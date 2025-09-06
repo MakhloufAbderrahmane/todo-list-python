@@ -73,7 +73,7 @@ Here are some screenshots of the project in action:
 
 ### 📌 Main Menu
 Shows the main interface of the To-Do List program.
-![Main Menu](images/menu.png)
+![Main Menu](images/main-menu.png)
 
 ### ➕ Adding Tasks
 ![Add Tasks](images/add.png)
