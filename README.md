@@ -1,4 +1,4 @@
-# 📝 To-Do List in Python
+# 📝 To Do List app in Python
 
 A simple **command-line To-Do List application** written in Python.  
 This is a beginner-friendly project that I built to practice **loops, lists, file handling, and user input**.
@@ -29,7 +29,7 @@ todo-list-python/
 3. Open a terminal/command prompt inside the project folder.  
 4. Run the program:
    ```bash
-   python to_do_list.py
+   python todo-list.py
 
 ---
 
