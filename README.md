@@ -33,7 +33,7 @@ todo-list-python/
 
 ---
 
-🧠 What I Learned
+## 🧠 What I Learned
 
 How to work with lists and loops in Python.
 
@@ -45,7 +45,7 @@ Building a simple menu system for the terminal.
 
 ---
 
-📌 Future Improvements
+## 📌 Future Improvements
 
 Mark tasks as completed ✅/❌
 
