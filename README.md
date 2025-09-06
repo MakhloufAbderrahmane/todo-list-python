@@ -67,7 +67,31 @@ Export tasks to JSON or CSV
 
 ---
 
-📷 Screenshots
+## 🖼️ Screenshots
 
-![screenshot](carbon.png)
+Here are some screenshots of the project in action:
 
+### 📌 Main Menu
+Shows the main interface of the To-Do List program.
+![Main Menu](images/menu.png)
+
+### ➕ Adding Tasks
+![Add Tasks](images/add.png)
+
+### 📋 Viewing Tasks
+Displays the current tasks in the list.  
+![View Tasks](images/view.png)
+
+### ❌ Removing a Task
+![Remove Task](images/remove.png)
+
+---
+
+### 📸 Gallery View
+
+<p align="center">
+  <img src="images/menu.png" alt="Main Menu" width="250"/>
+  <img src="images/add.png" alt="Adding Tasks" width="250"/>
+  <img src="images/view.png" alt="Viewing Tasks" width="250"/>
+  <img src="images/remove.png" alt="Removing Task" width="250"/>
+</p>
