@@ -30,16 +30,6 @@ todo-list-python/
 4. Run the program:
    ```bash
    python to_do_list.py
----
-   💻 Example Usage
-✅ Welcome to your To-Do List!
-
-📌 To-Do List Menu
-1. Add Task
-2. View Tasks
-3. Remove Task
-4. Save & Exit
-Choose an option (1-4): 
 
 ---
 
@@ -76,22 +66,14 @@ Shows the main interface of the To-Do List program.
 ![Main Menu](images/main-menu.png)
 
 ### ➕ Adding Tasks
-![Add Tasks](images/add.png)
+![Add Tasks](images/add-task.png)
 
 ### 📋 Viewing Tasks
 Displays the current tasks in the list.  
-![View Tasks](images/view.png)
+![View Tasks](images/View-Tasks.png)
 
 ### ❌ Removing a Task
-![Remove Task](images/remove.png)
+![Remove Task](images/remove-task.png)
 
 ---
 
-### 📸 Gallery View
-
-<p align="center">
-  <img src="images/menu.png" alt="Main Menu" width="250"/>
-  <img src="images/add.png" alt="Adding Tasks" width="250"/>
-  <img src="images/view.png" alt="Viewing Tasks" width="250"/>
-  <img src="images/remove.png" alt="Removing Task" width="250"/>
-</p>
